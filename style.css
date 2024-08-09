@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    font-family: 'Calibri';
+    border: border-box;
+}
+
+.navbar{
+    height: 100%;
+    background-color: white; 
+    display: flex;
+  
+ /********divide things in the navbar equilly*******/
+}
+.nav-logo{
+    height: 55px;
+    width: 64px;
+}
+.logo{
+    background-image: url("airbnb_images/logo.png");
+    background-size: cover;
+    height: 54px;
+    width: 100%;
+}
